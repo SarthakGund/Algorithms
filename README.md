@@ -6,3 +6,5 @@
 5. Kruskal's Algorithm
 6. Prim's Algorithm
 7. MinMax (Divide & Conquer)
+8. Strassen's matrix multiplication
+9. Coin Change
