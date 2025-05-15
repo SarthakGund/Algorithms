@@ -9,3 +9,4 @@
 8. Strassen's matrix multiplication
 9. Coin Change
 10. 0/1 Knapsack
+11. Lowest Common Subsequence
