@@ -5,3 +5,4 @@
 4. Disjoint Set Union
 5. Kruskal's Algorithm
 6. Prim's Algorithm
+7. MinMax (Divide & Conquer)
