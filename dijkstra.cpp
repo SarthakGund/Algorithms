@@ -77,6 +77,12 @@ void solve(){
         
     };
     
+    dijkstra(1);
+
+    for(int i=1; i<=n; i++){
+        cout << dist[i] << " ";
+    }
+    cout << endl;
 }
 
 int32_t main() {
