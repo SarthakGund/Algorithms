@@ -8,3 +8,4 @@
 7. MinMax (Divide & Conquer)
 8. Strassen's matrix multiplication
 9. Coin Change
+10. 0/1 Knapsack
