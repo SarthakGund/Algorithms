@@ -13,7 +13,7 @@ void solve(){
 
     vector<vector<pair<int, int>>> adj(n+1);
     vector<int> dist(n+1, INF);
-        vector<bool> vis(n+1);
+    vector<bool> vis(n+1);
 
     for (int i = 0; i < m; i++)
     {

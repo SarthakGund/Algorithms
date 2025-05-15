@@ -4,3 +4,4 @@
 3. Bellman Ford
 4. Disjoint Set Union
 5. Kruskal's Algorithm
+6. Prim's Algorithm
