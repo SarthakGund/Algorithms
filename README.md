@@ -10,3 +10,4 @@
 9. Coin Change
 10. 0/1 Knapsack
 11. Lowest Common Subsequence
+12. Knuth-Morris-Pratt
